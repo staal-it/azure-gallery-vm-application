@@ -1,1 +1,2 @@
 # azure-gallery-vm-application
+This code shows how to use the Azure Gallery VM Application to deploy a VM with a custom application. See the following links for more information: https://erwinstaal.nl/posts/azure-gallery-vm-app/
